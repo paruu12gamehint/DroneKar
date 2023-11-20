@@ -1,0 +1,46 @@
+{
+    "fpvDrone" : [
+        {
+            "id" : 1,
+            "name" : "BIR – The Experience Drone",
+            "desc" : "Use BIR to learn the ins and outs of drone flying",
+            "price" : 2500,
+            "image": "https://insidefpv.com/wp-content/uploads/2023/01/img_3006.jpeg"
+        },
+        {
+            "id" : 2,
+            "name" : "QTWhoop – for Beginners",
+            "desc" : "The educational drone that’s as cute as it is capable",
+            "price" : 2500,
+            "image": "https://insidefpv.com/wp-content/uploads/2022/12/2-10.jpg"
+        },
+        {
+            "id" : 3,
+            "name" : "Ekansh – for Indoors",
+            "desc" : "This versatile drone is perfect for indoor and crowded areas",
+            "price" : 2500,
+            "image": "https://insidefpv.com/wp-content/uploads/2022/12/2nd-p.png"
+        },
+        {
+            "id" : 4,
+            "name" : "Advik – for 360° Dynamics",
+            "desc" : "A reliable drone that’s perfect for professionals and enthusiasts alike.",
+            "price" : 2500,
+            "image": "https://insidefpv.com/wp-content/uploads/2022/12/1-3-1.jpg"
+        },
+        {
+            "id" : 5,
+            "name" : "Dheer – for Stability",
+            "desc" : "Powerful and reliable cinewhoop",
+            "price" : 2500,
+            "Dimg": "https://insidefpv.com/wp-content/uploads/2022/12/1st_-1.png"
+        },
+        {
+            "id" : 6,
+            "name" : "Citrya – for Films , Media & Aerial Photography",
+            "desc" : "Citrya is a high-performance drone designed for professionals in the film industry",
+            "price" : 2500,
+            "image": "https://insidefpv.com/wp-content/uploads/2022/12/citrya-page-1-1.png"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537995055019",
+    "project_id": "droneotp",
+    "storage_bucket": "droneotp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537995055019:android:665061e7dc7b35b96c8cee",
+        "android_client_info": {
+          "package_name": "com.example.new_bee_drone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAydDUZ4OufMpP2uQKO_3Xe6F_H-lgIdcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
